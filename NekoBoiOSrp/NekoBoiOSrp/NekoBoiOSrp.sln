@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NekoBoiOSrp", "NekoBoiOSrp\NekoBoiOSrp.csproj", "{CBBE38E5-84A0-4FE6-A4D4-A7F413639910}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBBE38E5-84A0-4FE6-A4D4-A7F413639910}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBBE38E5-84A0-4FE6-A4D4-A7F413639910}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBBE38E5-84A0-4FE6-A4D4-A7F413639910}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBBE38E5-84A0-4FE6-A4D4-A7F413639910}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B75A59D-577F-46A1-99E9-930E54F54724}
+	EndGlobalSection
+EndGlobal
